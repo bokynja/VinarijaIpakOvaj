@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vinarija", "Vinarija\Vinarija.csproj", "{DB71BA38-81D3-4FAC-AB8D-2022C961E5E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{9B0A13B1-4486-446C-8CD9-14D1437431A8}"
+	ProjectSection(SolutionItems) = preProject
+		Vinarija\Logo.ico = Vinarija\Logo.ico
+		Vinarija\pocetnavino.jpg = Vinarija\pocetnavino.jpg
+		..\..\..\Desktop\januar.februar\Eksploatacija\vinarija.jpg = ..\..\..\Desktop\januar.februar\Eksploatacija\vinarija.jpg
+		..\..\..\Desktop\januar.februar\Eksploatacija\vino1.png = ..\..\..\Desktop\januar.februar\Eksploatacija\vino1.png
+		..\..\..\Desktop\januar.februar\Eksploatacija\vino2.jpeg = ..\..\..\Desktop\januar.februar\Eksploatacija\vino2.jpeg
+		..\..\..\Desktop\januar.februar\Eksploatacija\vino3.png = ..\..\..\Desktop\januar.februar\Eksploatacija\vino3.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB71BA38-81D3-4FAC-AB8D-2022C961E5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB71BA38-81D3-4FAC-AB8D-2022C961E5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB71BA38-81D3-4FAC-AB8D-2022C961E5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB71BA38-81D3-4FAC-AB8D-2022C961E5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E97FA50-E1B5-427C-A603-229F70AA4DD6}
+	EndGlobalSection
+EndGlobal
